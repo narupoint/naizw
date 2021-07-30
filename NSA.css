@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Viga&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital@1&display=swap');
+
+body {
+    font-size: 15pt;
+}
+
+.navbar-brand {
+  font-family: 'Viga', sans-serif;
+  margin-left: 30px;
+}
+
+.nav-link {
+  font-family: 'Montserrat', sans-serif;
+  margin-left: 30px
+}
+
+.navbar-toggler {
+  margin-left: 30px
+}
+
+.jumbotron {
+  padding: 2rem;
+  background-color: #ff5d12;
+  color: white;
+}
+
+.jumbotron img {
+  width: 200px;
+  margin-top: 40px;
+}
+
+.display-4 {
+  margin-top: 50px;
+}
+
+.te {
+  font-size: 13px;
+  font-family: 'montserrat', sans-serif;
+}
+
+.vide {
+  width: 390px;
+  margin-top: 30px;
+}
